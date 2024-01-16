@@ -1,6 +1,6 @@
 # Styched-Store-Annual-Report-2023
 OBJECTIVE :-
-Vrinda Store wants to create an annual sales report for 2023. So that, Vrinda can understand their customers and grow more sales in 2024.
+Styched Store wants to create an annual sales report for 2023. So that, Vrinda can understand their customers and grow more sales in 2024.
 
 SAMPLE QUESTIONS :-
 1) Compare the sales and orders using single chart.
