@@ -1,4 +1,4 @@
-# Styched-Store-Annual-Report-2023
+# Store-Annual-Report-2023 using Excel
 OBJECTIVE :-
 Styched Store wants to create an annual sales report for 2023. So that, store can understand their customers and grow more sales in 2024.
 
